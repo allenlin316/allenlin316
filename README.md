@@ -2,7 +2,7 @@
 
 ## Connect with me:
 * 🖥️ [Personal website](https://allenlin316.github.io)
-* <img width="20px" src="https://github.com/allenlin316/allenlin316/assets/79969875/d72ea6a1-fe73-4480-9f40-35bfc709aa9b">: [品安Allenator](https://www.youtube.com/channel/UCHd7xTXd4EoLJWKyayXceXw)
+* <img width="20px" src="https://github.com/allenlin316/allenlin316/assets/79969875/d72ea6a1-fe73-4480-9f40-35bfc709aa9b"> [品安Allenator](https://www.youtube.com/channel/UCHd7xTXd4EoLJWKyayXceXw)
 * 📫 `allenlin316@gmail.com`
 
 
@@ -11,8 +11,7 @@
 
 ---
 
-## Recent vids in my channel
-<iframe width="560" height="315" src="https://www.youtube.com/embed/Oafo6oNjyU0?si=v1Gy2NdMH99qqh12" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+## Recent posts
 
 
 
