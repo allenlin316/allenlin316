@@ -3,7 +3,7 @@
 ## Connect with me:
 * 🖥️ [Personal website](https://allenlin316.github.io)
 * <a href="https://www.youtube.com/channel/UCHd7xTXd4EoLJWKyayXceXw" target="_blank"><img src="https://hackmd.io/_uploads/SJAI3cUea.png" width="20px" alt="allenlin316 youtube channel"></a>
-    <a href=""></a> [品安Allenator](https://www.youtube.com/channel/UCHd7xTXd4EoLJWKyayXceXw)
+  [品安Allenator](https://www.youtube.com/channel/UCHd7xTXd4EoLJWKyayXceXw)
 * 📫 `allenlin316@gmail.com`
 
 ## Languages and Tools:
