@@ -11,9 +11,12 @@
 
 ---
 
-## Recent posts
-
-
+## 📰 Recent posts
+* [指紋辨識網站 - Fingerprint Classification Web App](https://github.com/allenlin316/Fingerprint_classification_web_app)
+* [透過量子自我監督之指紋辨識應用 - QSSL](https://github.com/allenlin316/QSSL)
+* [Kotlin app 設計 - Taskblitz](https://github.com/allenlin316/Android_App/tree/main/Taskblitz)
+* [鳳梨種類分類 - Pineapple_classification](https://github.com/allenlin316/Pineapple_classification)
+* [NCYU 教學意見調查表自動化 - ncyu_autofill_form](https://github.com/allenlin316/ncyu_autoFill_form)
 
 ---
 
