@@ -2,7 +2,7 @@
 
 ## Connect with me:
 * 🖥️ [Personal website](https://allenlin316.github.io)
-* ![youtube logo](https://github.com/allenlin316/allenlin316/assets/79969875/d72ea6a1-fe73-4480-9f40-35bfc709aa9b): [品安Allenator](https://www.youtube.com/channel/UCHd7xTXd4EoLJWKyayXceXw)
+* <img width="20px" src="https://github.com/allenlin316/allenlin316/assets/79969875/d72ea6a1-fe73-4480-9f40-35bfc709aa9b">: [品安Allenator](https://www.youtube.com/channel/UCHd7xTXd4EoLJWKyayXceXw)
 * 📫 `allenlin316@gmail.com`
 
 
